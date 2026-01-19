@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tobia\\Downloads\\Workspace\\Turnos-app\\turnos.api\\Turnos.API.csproj": {}
+    "C:\\Users\\tobia\\Downloads\\Workspace\\Turnos-app\\Turnos.API\\Turnos.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tobia\\Downloads\\Workspace\\Turnos-app\\turnos.api\\Turnos.API.csproj": {
+    "C:\\Users\\tobia\\Downloads\\Workspace\\Turnos-app\\Turnos.API\\Turnos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tobia\\Downloads\\Workspace\\Turnos-app\\turnos.api\\Turnos.API.csproj",
+        "projectUniqueName": "C:\\Users\\tobia\\Downloads\\Workspace\\Turnos-app\\Turnos.API\\Turnos.API.csproj",
         "projectName": "Turnos.API",
-        "projectPath": "C:\\Users\\tobia\\Downloads\\Workspace\\Turnos-app\\turnos.api\\Turnos.API.csproj",
+        "projectPath": "C:\\Users\\tobia\\Downloads\\Workspace\\Turnos-app\\Turnos.API\\Turnos.API.csproj",
         "packagesPath": "C:\\Users\\tobia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tobia\\Downloads\\Workspace\\Turnos-app\\turnos.api\\obj\\",
+        "outputPath": "C:\\Users\\tobia\\Downloads\\Workspace\\Turnos-app\\Turnos.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

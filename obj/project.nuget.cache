@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KeZNNNPfYJQ=",
+  "dgSpecHash": "KeW0atXuK10=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tobia\\Downloads\\Workspace\\Turnos-app\\turnos.api\\Turnos.API.csproj",
+  "projectFilePath": "C:\\Users\\tobia\\Downloads\\Workspace\\Turnos-app\\Turnos.API\\Turnos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tobia\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\tobia\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
