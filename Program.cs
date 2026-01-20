@@ -11,7 +11,7 @@ builder.Services.AddControllers()
         opt.JsonSerializerOptions.PropertyNamingPolicy =
             System.Text.Json.JsonNamingPolicy.CamelCase;
 
-        // ESTO ES LO QUE FALTABA
+    
         opt.JsonSerializerOptions.Converters.Add(
             new JsonStringEnumConverter()
         );
@@ -49,12 +49,21 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+// app.UseHttpsRedirection();
 app.UseCors("AllowFrontend");
 app.UseMiddleware<Turnos.API.Middlewares.ExceptionMiddleware>();
 app.MapControllers();
 
 app.Run();
+
+var connectionString = builder.Configuration["MYSQL_CONNECTION"];
+
+builder.Services.AddDbContext<TurnosDbContext>(options =>
+    options.UseMySql(
+        connectionString,
+        ServerVersion.AutoDetect(connectionString)
+    )
+);
 
 
 
