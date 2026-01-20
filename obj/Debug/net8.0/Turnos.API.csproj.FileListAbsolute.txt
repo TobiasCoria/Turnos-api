@@ -105,3 +105,4 @@ C:\Users\tobia\Downloads\Workspace\Turnos-app\turnos.api\obj\Debug\net8.0\refint
 C:\Users\tobia\Downloads\Workspace\Turnos-app\turnos.api\obj\Debug\net8.0\Turnos.API.pdb
 C:\Users\tobia\Downloads\Workspace\Turnos-app\turnos.api\obj\Debug\net8.0\Turnos.API.genruntimeconfig.cache
 C:\Users\tobia\Downloads\Workspace\Turnos-app\turnos.api\obj\Debug\net8.0\ref\Turnos.API.dll
+C:\Users\tobia\Downloads\Workspace\Turnos-app\Turnos.API\obj\Debug\net8.0\Turnos.API.sourcelink.json
